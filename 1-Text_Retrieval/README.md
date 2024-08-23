@@ -8,13 +8,15 @@ In this module, we'll walk through the key components of text retrieval by cover
 
 In quick start, we provide a very simple example including embedding, computing similarity, ranking, and evaluation.
 
-## Embedding
+## [Embedding](./embedding.ipynb)
+
+We introduce the BGE embedding series with their characteristics and show how to use them.
 
 ## [Similarity](./similarity.ipynb)
 
 In this part, we show several popular similarity functions and examples of their usage.
 
-## [Indexing](./Indexing.ipynb)
+## [Indexing](./indexing.ipynb)
 
 Indexing is not included in the quick start, but it's a very important part in practical cases. This part shows how to use [Faiss](https://github.com/facebookresearch/faiss) to create your first index for embeddings.
 
