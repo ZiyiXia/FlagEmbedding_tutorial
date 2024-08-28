@@ -20,6 +20,9 @@ In this part, we show several popular similarity functions and examples of their
 
 Indexing is not included in the quick start, but it's a very important part in practical cases. This part shows how to use [Faiss](https://github.com/facebookresearch/faiss) to create your first index for embeddings.
 
+## [Evaluation](./evaluation.ipynb)
+
+In this part, we'll show the full pipeline of evaluating an embedding model in retrieval on a well-known dataset and few commonly used metrics.
+
 ## Reranker
 
-## Evaluation
