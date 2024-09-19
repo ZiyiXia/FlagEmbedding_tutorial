@@ -17,7 +17,7 @@ This module includes tutorials and demos showing how to use BGE and Sentence Tra
 - [x] BGE series
 - [x] Usage of BGE
 - [x] BGE-M3
-- [ ] <span style="color: rgba(0, 0, 0, 0.5);">BGE-ICL</span>
+- [ ] <span style="color: rgba(0, 0, 0, 0.2);">BGE-ICL</span>
 
 ## [Similarity](./2_Similarity)
 
@@ -32,8 +32,8 @@ Although not included in the quick start, indexing is a very important part in p
 
 - [x] Intro to Faiss
 - [x] Using GPU in Faiss
-- [ ] <span style="color: rgba(0, 0, 0, 0.5);">Index and Quantizer</span>
-- [ ] <span style="color: rgba(0, 0, 0, 0.5);">Milvus</span>
+- [ ] <span style="color: rgba(0, 0, 0, 0.2);">Index and Quantizer</span>
+- [ ] <span style="color: rgba(0, 0, 0, 0.2);">Milvus</span>
 ...
 
 ## [Evaluation](./4_Evaluation)
@@ -43,7 +43,7 @@ In this module, we'll show the full pipeline of evaluating an embedding model, a
 - [x] Evaluate MSMARCO
 - [x] Intro to MTEB
 - [x] MTEB Leaderboard Eval
-- [ ] <span style="color: rgba(0, 0, 0, 0.5);">C-MTEB</span>
+- [ ] <span style="color: rgba(0, 0, 0, 0.2);">C-MTEB</span>
 
 ## [Reranking](./5_Reranking/)
 
